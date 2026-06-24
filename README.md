@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ProductFlow
 
 A product catalog built to browse large datasets efficiently. The backend exposes a read-only listing API with keyset pagination, category filtering, and substring search. A React frontend consumes those APIs with cursor-based "Load more" pagination.
@@ -491,3 +492,6 @@ If you are reviewing this repo: focus questions on the pagination query, index s
 ## License
 
 Proprietary — ProductFlow
+=======
+# ProductFlow
+>>>>>>> ebb54988db78ed176487b6b5fdaf0fc14787defe
